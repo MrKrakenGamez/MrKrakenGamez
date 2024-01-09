@@ -1,4 +1,6 @@
-### Hi there 👋
+<div aling="center">
+  <h1 aling="center">Hi, I'm Miguel </h1>
+</div>
 
 <!--
 **MrKrakenGamez/MrKrakenGamez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
