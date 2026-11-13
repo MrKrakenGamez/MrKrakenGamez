@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Mike Kraken — Full Stack · DevOps · Tech Lead" width="100%" />
+<img src="./banner.svg" alt="Mike Kraken — Full Stack · DevOps · Tech Lead" width="100%" />
 
 <a href="https://github.com/MrKrakenGamez"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&height=42&lines=Full+Stack+Developer;DevOps+%26+CI%2FCD;L%C3%ADder+T%C3%A9cnico;.NET+%2B+Angular+%2B+Clean+Architecture" alt="Tagline animado" /></a>
 
