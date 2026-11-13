@@ -1,165 +1,65 @@
-<!--
-  README de perfil para @MrKrakenGamez
-  Paleta provisional: carbón (#0A0A0A) + oro (#D4AF37) + blanco.
-  Si tu portafolio ya tiene una paleta oficial, sustituye estos colores por sus HEX.
-  Busca los comentarios TODO para completar los datos que aún no están confirmados.
--->
-
 <div align="center">
 
-  <!-- Header animado: puedes editar las frases en el parámetro lines= -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=D4AF37&center=true&vCenter=true&width=760&height=55&lines=Miguel+Angel+Gamez;Full+Stack+Developer+%7C+DevOps+%7C+Tech+Lead;Building+software+with+purpose." alt="Miguel Angel Gamez — Full Stack Developer, DevOps and Tech Lead" />
+<img src="./assets/banner.svg" alt="Mike Kraken — Full Stack · DevOps · Tech Lead" width="100%" />
 
-  <p>
-    <strong>Full Stack Developer · DevOps · Tech Lead</strong><br />
-    <sub>Estado de México, México</sub>
-  </p>
+<a href="https://github.com/MrKrakenGamez"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&height=42&lines=Full+Stack+Developer;DevOps+%26+CI%2FCD;L%C3%ADder+T%C3%A9cnico;.NET+%2B+Angular+%2B+Clean+Architecture" alt="Tagline animado" /></a>
 
-  <!-- Badges principales: cambia color=D4AF37 si actualizas la paleta -->
-  <img src="https://img.shields.io/badge/PROFILE-MrKrakenGamez-D4AF37?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=white" alt="GitHub MrKrakenGamez" />
-  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%26%20DevOps-D4AF37?style=for-the-badge&labelColor=0A0A0A" alt="Full Stack and DevOps" />
-  <img src="https://komarev.com/ghpvc/?username=MrKrakenGamez&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" alt="Profile views" />
+<br/>
 
-</div>
+<a href="https://mikekraken.dev"><img src="https://img.shields.io/badge/Portafolio-mikekraken.dev-7C3AED?style=for-the-badge&labelColor=0A1128&logo=astro&logoColor=22D3EE" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-7C3AED?style=for-the-badge&labelColor=0A1128&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/Email-Escríbeme-7C3AED?style=for-the-badge&labelColor=0A1128&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=MrKrakenGamez&label=VISITAS&color=7C3AED&labelColor=0A1128&style=for-the-badge" alt="Visitas" />
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 👋 Presentación
+### ⟡ Stack
 
-Soy **Miguel Angel Gamez**, desarrollador enfocado en construir soluciones **Full Stack** que conectan interfaces claras con backends mantenibles. Trabajo principalmente con **C#, .NET, Angular y SQL Server**, cuidando la arquitectura, la calidad del código y la utilidad de cada producto.
+<p>
+  <img src="https://cdn.simpleicons.org/dotnet/22D3EE" width="38" alt=".NET" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/angular/22D3EE" width="38" alt="Angular" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/22D3EE" width="38" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/22D3EE" width="38" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/22D3EE" width="38" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/22D3EE" width="38" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/22D3EE" width="38" alt="GitHub Actions" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/astro/A855F7" width="38" alt="Astro" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/A855F7" width="38" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/threedotjs/A855F7" width="38" alt="Three.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/A855F7" width="38" alt="Tailwind" />
+</p>
 
-## 🧰 Stack tecnológico
+<sub><code>cyan</code> = backend / infraestructura &nbsp;·&nbsp; <code>violeta</code> = frontend / experiencias web</sub>
 
-<!-- Backend -->
-**Backend & Data**
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-173B5E?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20APIs-D4AF37?style=for-the-badge)
-
-<!-- Frontend -->
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-<!-- Tools -->
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 🧭 Sobre mí
-
-- 🛠️ **Actualmente:** desarrollo y mejoro proyectos Full Stack y data Analist para Inixio.
-- 🧠 **Learning:** profundizo en arquitectura de software, diseño de APIs, buenas prácticas y automatización.
-- 🤝 **Colaboración:** me interesa participar en proyectos donde pueda aportar en backend, frontend e integración de sistemas.
-- 🌎 **Idiomas:** Español e Inglés.
-
-## 📊 GitHub en números
-
-<div align="center">
-
-  <!-- Stats: la imagen cambia según el tema claro u oscuro de GitHub -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MrKrakenGamez&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=EAC65F&text_color=E6E6E6&icon_color=D4AF37" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=MrKrakenGamez&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF&title_color=7A5A00&text_color=333333&icon_color=B8860B" alt="GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrakenGamez&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=EAC65F&text_color=E6E6E6" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrakenGamez&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=7A5A00&text_color=333333" alt="Top languages" />
-  </picture>
-
-  <br />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MrKrakenGamez&theme=dark&hide_border=true&background=0D1117&ring=D4AF37&fire=EAC65F&currStreakLabel=EAC65F" />
-    <img src="https://streak-stats.demolab.com?user=MrKrakenGamez&theme=default&hide_border=true&background=FFFFFF&ring=B8860B&fire=B8860B&currStreakLabel=7A5A00" alt="GitHub contribution streak" />
-  </picture>
-
-  <!-- Widget opcional: activa esta imagen cuando quieras mostrar trofeos.
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=MrKrakenGamez&theme=flat&no-frame=true&no-bg=true&column=6" alt="GitHub profile trophies" />
-  -->
-
-</div>
-
-> Las estadísticas dependen de los datos públicos de GitHub y de la disponibilidad de los servicios externos que generan estas tarjetas.
-
-## 🚀 Proyectos destacados
-
-<!-- Actualiza títulos, descripciones y enlaces conforme publiques nuevas versiones. -->
+### ⟡ Métricas
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>GymAffiliate Manager</h3>
-      <p>Plataforma Full Stack para la gestión de afiliados, membresías, pagos y control de acceso.</p>
-      <p>
-        <img src="https://img.shields.io/badge/API-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-        <img src="https://img.shields.io/badge/Frontend-Angular%2020-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 20" />
-        <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-      </p>
-      <a href="https://github.com/MrKrakenGamez/Api_GYMaffiliation">Backend API</a> ·
-      <a href="https://github.com/MrKrakenGamez/Front_GYMaffiliation">Frontend</a>
+    <td align="center">
+      <img height="195" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MrKrakenGamez&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=135,0A1128,05070F&title_color=22D3EE&text_color=E6EDF7&icon_color=A855F7&border_color=7C3AED&ring_color=22D3EE&border_radius=16&locale=es" />
     </td>
-    <td width="50%" valign="top">
-      <h3>MDA Solicitudes API</h3>
-      <p>Proyecto backend en C# orientado a flujos de solicitudes relacionados con Monedero del Ahorro.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Backend-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" />
-        <img src="https://img.shields.io/badge/API-REST-D4AF37?style=flat-square&logo=fastapi&logoColor=0A0A0A" alt="REST API" />
-      </p>
-      <a href="https://github.com/MrKrakenGamez/MdaSolicitudes_API">Ver repositorio</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>CRM MDA Soporte TI API</h3>
-      <p>Backend en C# para un proyecto de CRM enfocado en procesos de soporte TI de Monedero del Ahorro.</p>
-      <a href="https://github.com/MrKrakenGamez/CRM_MDaSoporteTI_Api">Ver repositorio</a>
+    <td align="center">
+      <img height="195" alt="Top lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrakenGamez&layout=compact&langs_count=8&hide_border=false&bg_color=135,0A1128,05070F&title_color=22D3EE&text_color=E6EDF7&border_color=7C3AED&border_radius=16&locale=es" />
     </td>
   </tr>
 </table>
 
-## 📬 Contacto
+<img width="720" alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=MrKrakenGamez&background=0A1128&border=7C3AED&stroke=7C3AED&ring=22D3EE&fire=A855F7&currStreakNum=E6EDF7&currStreakLabel=22D3EE&sideNums=E6EDF7&sideLabels=94A3B8&dates=94A3B8&border_radius=16&hide_border=false&locale=es" />
 
-<div align="center">
+<img width="100%" alt="Actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=MrKrakenGamez&bg_color=0A1128&color=E6EDF7&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&title_color=22D3EE&hide_border=true&radius=16" />
 
-  <a href="https://github.com/MrKrakenGamez">
-    <img src="https://img.shields.io/badge/GitHub-MrKrakenGamez-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/miguel_kraken/">
-    <img src="https://img.shields.io/badge/Instagram-miguel__kraken-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<!-- OPCIONAL: trofeos (solo temas predefinidos, no acepta hex). Descomenta si te gusta el resultado.
+<img alt="Trofeos" src="https://github-profile-trophy.vercel.app/?username=MrKrakenGamez&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
+-->
 
-  <!-- TODO: agrega tus datos profesionales cuando quieras hacerlos públicos.
-  <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Email-Contactar-D4AF37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="URL_DE_TU_PORTAFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Website-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  -->
+<!-- OPCIONAL: snake animado (requiere el workflow de la guía)
+<img alt="Contribuciones" src="https://raw.githubusercontent.com/MrKrakenGamez/MrKrakenGamez/output/github-snake-dark.svg" width="100%" />
+-->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:22D3EE,50:7C3AED,100:05070F&reversal=true" width="100%" alt="" />
 
----
-
-<div align="center">
-
-  **“El buen código no solo resuelve problemas: también facilita el siguiente paso.”**
-
-  <sub>Diseñar · Construir · Mejorar — Mike Kraken</sub>
+<sub>Diseñado con la misma paleta que <a href="https://mikekraken.dev">mikekraken.dev</a> · <i>el kraken en el océano nocturno</i></sub>
 
 </div>
